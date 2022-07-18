@@ -6,5 +6,5 @@
 </br>
 <b><p align="center">Profesional Skills</p></b>
 </br>
-<p align="center"><img src="https://github.com/odegabriel/odegabriel/blob/main/asp.net.png" width="100px" height="70px"  /> <img src="https://github.com/odegabriel/odegabriel/blob/main/javascript.png" width="50px" height="50px"  /> <img src="" width="50px" height="50px"  /> <img src="https://github.com/odegabriel/odegabriel/blob/main/react.png" width="50px" height="50px" /><img src="" width="50px" height="50px"  />
+<p align="center"><img src="https://github.com/odegabriel/odegabriel/blob/main/asp.net.png" width="100px" height="70px"  /> <img src="https://github.com/odegabriel/odegabriel/blob/main/javascript.png" width="50px" height="50px"  /> <img src="https://github.com/odegabriel/odegabriel/blob/main/react.png" width="50px" height="50px" /><img src="https://github.com/odegabriel/odegabriel/blob/main/Node_logo_NodeJS.png" width="50px" height="50px"  />
 <p>react</p>
